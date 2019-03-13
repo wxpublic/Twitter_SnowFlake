@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sequence/com.project.sequence.iml" filepath="$PROJECT_DIR$/Sequence/com.project.sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push-cloudhouse/push-cloudhouse.iml" filepath="$PROJECT_DIR$/push-cloudhouse/push-cloudhouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/雪花算法.iml" filepath="$PROJECT_DIR$/.idea/雪花算法.iml" />
+    </modules>
+  </component>
+</project>

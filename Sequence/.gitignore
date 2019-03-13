@@ -1,0 +1,13 @@
+.idea
+.svn
+.mvn
+out
+classes
+target
+**/META-INF
+**/classes
+**/lib
+*.iml
+.idea/libraries
+build
+logs
